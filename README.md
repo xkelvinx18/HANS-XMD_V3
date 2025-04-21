@@ -110,7 +110,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 
 <h4 align="center">1.Heroku Safe 💯</h4>
 <p align="center">
-  <a href="https://HANS-hanstz.vercel.app">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Mrhanstz/HANS-XMD_V3">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku">
   </a>
 </p>
