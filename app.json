@@ -124,7 +124,7 @@
     "ANTI_DEL_PATH": {
       "description": "change it to -same- if you want to resend deleted message in same chat",
       "required": false,
-      "value": "log"
+      "value": "some"
     },
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
