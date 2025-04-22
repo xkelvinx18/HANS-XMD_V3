@@ -55,7 +55,7 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 </p>
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029Vb4a985InlqSS0l3ro3c#N7Mti4kjHnOwhF8PLajt4KvJt_dNPPAeNjgLaszm3po">
+  <a href="https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31#N7Mti4kjHnOwhF8PLajt4KvJt_dNPPAeNjgLaszm3po">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp">
   </a>
 </div>
@@ -93,12 +93,17 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 <p>You will need a session ID to run the HANS-XMD_V3. Click the button below to obtain your session ID. If there is any issue loading the site, try using a VPN:</p>
 
 <p><strong>1️⃣ Pair Code (Session ID)</strong></p>
-<a href='https://hanstech-site.onrender.com/' target="_blank">
+<a href='https://hans-tz-site.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
 <p><strong>2️⃣ Pair Code (Session ID)</strong></p>
 <a href='https://hanstech-site.onrender.com/pair' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+
+<p><strong>3️⃣ Pair Code (Session ID)</strong></p>
+<a href='https://hans-tz-site.onrender.com/pair' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
