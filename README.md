@@ -152,13 +152,13 @@ Dont forget to fork 🍴 & star 🌟 repo😇
   <summary>TAP HOW TO DEPLOY RENDER STEP'S</summary>
   <p>
 - **Render Deployment:**
-## 1. If you don’t have a **Render** account, click [**here**](https://dashboard.render.com) to create one.
-## 2. Create a new web service.  
-## 3. Choose **Public Git Repository**.  
-## 4. In the field, enter `https://gitlab.com/Mrhanstz/Hans-Xmd`.
-## 5. Click **Connect**.  
-## 6. Select the **Free Plan** if you don’t want to pay.
-## 7. In the **Environment Variable** section, click **Add from .env** and copy the content below:
+1. **If you don’t have a **Render** account, click [**here**](https://dashboard.render.com) to create one.
+2. **Create a new web service.  
+3. **ChoosePublic Git Repository.  
+4. **In the field, enter `https://gitlab.com/Mrhanstz/Hans-Xmd`.
+5. **Click Connect
+6. **Select the Free Plan if you don’t want to pay
+7. **In the Environment Variable section, click Add from .env and copy the content below
 
 ```env
 PREFIX
@@ -167,8 +167,8 @@ OWNER_NUMBER
 OWNER_NAME
 ```
 
-8. Click **Add env** to save, then edit as needed. Don’t forget to enter your session ID.
-9. Click **Deploy Service** and enjoy!
+8. **Click Add env  to save, then edit as needed. Don’t forget to enter your session ID.
+9. **Click Deploy Service and enjoy!
 
 10. uptime `https://betterstack.com/uptime`
 11. uptime `https://uptimerobot.com/`
