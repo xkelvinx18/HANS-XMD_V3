@@ -152,6 +152,9 @@ Dont forget to fork 🍴 & star 🌟 repo😇
   <summary>TAP HOW TO DEPLOY RENDER STEP'S</summary>
   <p>
 ##Render Deployment:
+SESSION ID FOR RENDER BOT
+    
+https://hanstz-tech-pair-site-d3688ca5f81e.herokuapp.com/
 
 1. If you don’t have a Render account, click [**here**](https://dashboard.render.com) to create one.
 2. Create a new web service.  
