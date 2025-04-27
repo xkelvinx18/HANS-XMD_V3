@@ -92,13 +92,13 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 <h3>2. Get Session ID</h3>
 <p>You will need a session ID to run the HANS-XMD_V3. Click the button below to obtain your session ID. If there is any issue loading the site, try using a VPN:</p>
 
-<p><strong>1️⃣ Pair Code (Session ID)</strong></p>
-<a href='https://hans-tz-site.onrender.com' target="_blank">
+<p><strong>1️⃣ FOR RENDER (Session ID)</strong></p>
+<a href='https://hanstz-tech-pair-site-d3688ca5f81e.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
-<p><strong>2️⃣ Pair Code (Session ID)</strong></p>
-<a href='https://hanstech-site.onrender.com/pair' target="_blank">
+<p><strong>2️⃣ Normal Deployments (Session ID)</strong></p>
+<a href='https://hans-tz-site.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
