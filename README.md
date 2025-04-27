@@ -147,6 +147,33 @@ Dont forget to fork 🍴 & star 🌟 repo😇
     <img alt='Render Deploy' src='https://img.shields.io/badge/-Render%20Deploy-black?style=for-the-badge&logo=render&logoColor=white'/>
   </a>
 </p>
+---
+<details>
+  <summary>HOW TO DEPLOY RENDER STEP'S</summary>
+  <p>
+- **Render Deployment:**
+1. If you don’t have a **Render** account, click [**here**](https://dashboard.render.com) to create one.
+2. Create a new web service.  
+3. Choose **Public Git Repository**.  
+4. In the field, enter `https://gitlab.com/Mrhanstz/Hans-Xmd`.
+5. Click **Connect**.  
+6. Select the **Free Plan** if you don’t want to pay.
+7. In the **Environment Variable** section, click **Add from .env** and copy the content below:
+
+```env
+PREFIX=.
+SESSION_ID=
+```
+
+8. Click **Add env** to save, then edit as needed. Don’t forget to enter your session ID.
+9. Click **Deploy Service** and enjoy!
+
+10. uptime `https://betterstack.com/uptime`
+11. uptime `https://uptimerobot.com/`
+
+##uptime you bot when you done all process to deploy uptime before using to keep you bot alive never sleep 💤
+</p>
+</details>
 
 
 <h4 align="center">6. Replit</h4>
