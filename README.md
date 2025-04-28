@@ -1,11 +1,13 @@
 # 🚀 Hᴀɴs-Xᴍᴅ_ᴠ3  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=1000&width=500&lines=Welcome+to+Hans-Xmd-V3🚀;Created+By+HansTz;Fork+Me+and+Enjoy!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=default&size=24&duration=4000&pause=1000&width=500&lines=Welcome+to+Hans-Xmd-V3🚀;Created+By+HansTz;Fork+Me+and+Enjoy!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/1mdmlu.jpg" width="70%" alt="Main Graphic" />
+  <a href="https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31">
+    <img src="https://files.catbox.moe/1mdmlu.jpg" alt="Hans XMD V3 Banner" />
+  </a>
 </p>
 
 ---
@@ -75,5 +77,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=1000&width=500&lines=Keep+Using+Hans-Xmd-V3🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=default&size=24&duration=4000&pause=1000&width=500&lines=Keep+Using+Hans-Xmd-V3🚀" alt="Typing SVG" />
 </p>
