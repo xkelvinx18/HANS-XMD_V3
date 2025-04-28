@@ -36,8 +36,9 @@ _AND MORE_
 # GET SESSION ID THEN DEPLOY
 
 https://hanstz-tech-pair-site-d3688ca5f81e.herokuapp.com/
-
 TYR ON KOYOB NOW ☝️
 ALL DEPLOYMENT PLATFORMS TRY DOWNLOAD ZIP FOR PANNEL 🔥 DEPLOYMENTS
 
 Download ZIP
+
+https://github.com/Mrhanstz/HANS-XMD_V3/archive/refs/heads/main.zip
