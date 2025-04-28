@@ -14,7 +14,7 @@ const config = {
   AUTO_RECORDING: process.env.AUTO_RECORDING !== undefined ? process.env.AUTO_RECORDING === 'true' : false,
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE !== undefined ? process.env.ALWAYS_ONLINE === 'true' : false,
   AUTO_REACT: process.env.AUTO_REACT !== undefined ? process.env.AUTO_REACT === 'true' : false,
-  AUTO_REACT_STATUS: process.env.AUTO_REACT_STATUS !== undefined ? process.env.AUTO_REACT_STATUS === 'true' : false,
+  AUTOREACT_STATUS: process.env.AUTOREACT_STATUS !== undefined ? process.env.AUTOREACT_STATUS === 'true' : false,
    /*auto block only for 221 */
   AUTO_BLOCK: process.env.AUTO_BLOCK !== undefined ? process.env.AUTO_BLOCK === 'true' : true,
   REJECT_CALL: process.env.REJECT_CALL !== undefined ? process.env.REJECT_CALL === 'true' : false, 
