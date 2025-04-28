@@ -1,4 +1,4 @@
-# 🚀 Hᴀɴs-Xᴍᴅ_ᴠ3  
+## 𝑯𝑨𝑵𝑺-𝐓𝐳 𝑻𝑬𝑪𝑯 🔥
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31">
