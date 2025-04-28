@@ -159,7 +159,7 @@ https://hanstz-tech-pair-site-d3688ca5f81e.herokuapp.com/
 1. If you don’t have a Render account, click [**here**](https://dashboard.render.com) to create one.
 2. Create a new web service.  
 3. ChoosePublic Git Repository.  
-4. In the field, enter `https://gitlab.com/Mrhanstz/Hans_Xmd`.
+4. In the field, enter `https://github.com/Hans-Xmd/King_Hans`.
 5. Click Connect
 6. Select the Free Plan if you don’t want to pay
 7. In the Environment Variable section, click Add from .env and copy the content below
