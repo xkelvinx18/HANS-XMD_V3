@@ -1,10 +1,6 @@
 # 🚀 Hᴀɴs-Xᴍᴅ_ᴠ3  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=default&size=24&duration=4000&pause=1000&width=500&lines=Welcome+to+Hans-Xmd-V3🚀;Created+By+HansTz;Fork+Me+and+Enjoy!" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31">
     <img src="https://files.catbox.moe/1mdmlu.jpg" alt="Hans XMD V3 Banner" />
   </a>
@@ -72,10 +68,4 @@
 
 ---
 
----
-🚀 *Your support keeps this project alive! Thank you for starring, forking, and sharing!*  
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=default&size=24&duration=4000&pause=1000&width=500&lines=Keep+Using+Hans-Xmd-V3🚀" alt="Typing SVG" />
-</p>
+`🚀 *Your support keeps this project alive! Thank you for starring, forking, and sharing!*`
