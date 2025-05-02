@@ -33,9 +33,9 @@
 
 ## 📋 Deployment Options  
 
-### 🌍 Hosting Platforms  
+## 🌍 All Hosting Platforms here 
 
-## [![DEPLOY NOW DEPLOYMENTS LIST HERE](https://img.shields.io/badge/Deploy-Bot%20Hosting-00C853?style=for-the-badge&logo=cloudflare)](https://hans-tech.vercel.app/)
+## [![DEPLOY NOW DEPLOYMENTS LIST HERE](https://img.shields.io/badge/Deploy-Hans%20Hosting-00C853?style=for-the-badge&logo=cloudflare)](https://hans-tech.vercel.app/)
 
 ---
 
