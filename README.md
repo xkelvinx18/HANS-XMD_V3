@@ -23,8 +23,11 @@
 ### 1️⃣ Fork the Repo  
 [![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Mrhanstz/HANS-XMD_V3/fork)
 
-### 2️⃣ Get Your Session ID  
-[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hanstz-tech-pair-site-d3688ca5f81e.herokuapp.com/)
+### 2️⃣ Get Your Session ID
+[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-site.onrender.com)
+
+### 2️⃣ Get Your Session ID
+[![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-site.onrender.com/pair)
 
 ---
 
@@ -32,23 +35,7 @@
 
 ### 🌍 Hosting Platforms  
 
-#### 1️⃣ Deploy to Heroku  
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/Mrhanstz/HANS-XMD_V3)
-
-#### 2️⃣ Deploy to Railway  
-[![Deploy to Railway](https://img.shields.io/badge/Deploy-Railway-000000?style=for-the-badge&logo=railway)](https://railway.app/)
-
-#### 3️⃣ Deploy to Render  
-[![Deploy to Render](https://img.shields.io/badge/Deploy-Render-46E3B7?style=for-the-badge&logo=render)](https://dashboard.render.com/)
-
-#### 4️⃣ Deploy to Koyeb  
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=hans-xmd-v3&repository=Mrhanstz%2FHANS-XMD_V3&branch=main&builder=dockerfile&instance_type=free&instances_min=0&autoscaling_sleep_idle_delay=300&env%5BAUTO_REACT_STATUS%5D=true&env%5BOWNER_NAME%5D=HansTech&env%5BOWNER_NUMBER%5D=%2B255659728029&env%5BPREFIX%5D=.&env%5BSESSION_ID%5D=HANSTZ%24TVVhWgiU)
-
-#### 5️⃣ Deploy to Katabump  
-[![Deploy to Katabump](https://img.shields.io/badge/Deploy-Katabump-800080?style=for-the-badge&logo=cloudflare)](https://dashboard.katabump.com/auth/login#f4bf37)
-
-#### 6️⃣ Deploy to Bot Hosting  
-[![Deploy to Bot Hosting](https://img.shields.io/badge/Deploy-Bot%20Hosting-00C853?style=for-the-badge&logo=cloudflare)](https://bot-hosting.net/?aff=1308000667230666802)
+## [![DEPLOY NOW DEPLOYMENTS LIST HERE](https://img.shields.io/badge/Deploy-Bot%20Hosting-00C853?style=for-the-badge&logo=cloudflare)](https://hans-tech.vercel.app/)
 
 ---
 
