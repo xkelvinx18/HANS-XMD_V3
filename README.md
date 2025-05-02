@@ -29,17 +29,23 @@
 ### 2️⃣ Get Your Session ID
 [![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-site.onrender.com/pair)
 
+
+
+
 ---
 
-## 📋 Deployment Options  
+## 📋 DEPLOY YOUR BOT NOW 💪
 
-### 🌍 Hosting Platforms  
+## 🌍 ALL DEPLOYMENTS HOSTING PLATFORMS  
 
-## [![DEPLOY NOW DEPLOYMENTS LIST HERE](https://img.shields.io/badge/Deploy-Bot%20Hosting-00C853?style=for-the-badge&logo=cloudflare)](https://hans-tech.vercel.app/)
+## [![DEPLOY NOW DEPLOYMENTS LIST HERE](https://img.shields.io/badge/Deploy-HANS%20HOSTING-00C853?style=for-the-badge&logo=cloudflare)](https://hans-tech.vercel.app/)
 
 ---
 
 ## 📲 Join the Community  
+
+
+
 
 [![Join WhatsApp](https://img.shields.io/badge/Join-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31)
 
