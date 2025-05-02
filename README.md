@@ -38,7 +38,7 @@
 
 ## 🌍 ALL DEPLOYMENTS HOSTING PLATFORMS  
 
-## [![DEPLOY NOW DEPLOYMENTS LIST HERE](https://img.shields.io/badge/Deploy-HANS%20HOSTING-00C853?style=for-the-badge&logo=cloudflare)](https://hans-tech.vercel.app/)
+## [![DEPLOY NOW DEPLOYMENTS LIST HERE](https://img.shields.io/badge/Deploy-HANSTZ%20HOSTING-00C853?style=for-the-badge&logo=cloudflare)](https://hans-tech.vercel.app/)
 
 ---
 
