@@ -26,11 +26,11 @@
 ### 2️⃣ Get Your Session ID
 [![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-pair.onrender.com/)
 
-### 2️⃣ Get Your Session ID
+### 3️⃣ Get Your Session ID Pair
 [![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-pair.onrender.com/pair)
 
 
-### 3️⃣ Get Your Session ID
+### 4️⃣ Get Your Session ID Qr Code
 [![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hans-tz-pair.onrender.com/qr)
 
 
