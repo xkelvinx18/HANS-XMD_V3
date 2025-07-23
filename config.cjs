@@ -20,8 +20,8 @@ const config = {
   REJECT_CALL: process.env.REJECT_CALL !== undefined ? process.env.REJECT_CALL === 'true' : false, 
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || "public",
-  OWNER_NAME: process.env.OWNER_NAME || "©HansTz",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "255659728029",
+  OWNER_NAME: process.env.OWNER_NAME || "©kelvinx",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "233202683923",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
